@@ -1,5 +1,6 @@
 
 import './App.css';
+import './fetchweather.css';
 import React,{useState} from 'react';
 import fetchWeather from './fetchWeather';
 
